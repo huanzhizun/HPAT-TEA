@@ -1,9 +1,3 @@
-/*************************************************************************
-    > File Name: random.cpp
-    > Author: huanzhizun
-    > Mail: huznzhiun888@126.com 
-    > Created Time: Fri 09 Mar 2018 03:32:33 PM CST
- ************************************************************************/
 #include "src/core.hpp"
 #include<queue>
 using namespace std;
